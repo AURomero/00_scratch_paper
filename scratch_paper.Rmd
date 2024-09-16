@@ -1,0 +1,179 @@
+---
+title: 'Stats 250: Scratch Paper'
+author: "Instructional Team"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_collapsed: true
+    theme: lumen
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Scratch Paper 
+
+This R project is designed for students to use as a space for rough work and calculations while completing assignments or working through problems. It provides a simple, organized environment to perform quick computations. Think of it as a digital version of traditional scratch paper, where you can freely work through your ideas.
+
+```{r code_chunk_1}
+#Insert your code here 
+
+```
+
+
+```{r code_chunk_2}
+#Insert your code here 
+
+```
+
+```{r code_chunk_3}
+#Insert your code here 
+
+```
+
+```{r code_chunk_4}
+#Insert your code here 
+
+```
+
+```{r code_chunk_5}
+#Insert your code here 
+
+```
+
+```{r code_chunk_6}
+#Insert your code here 
+
+```
+
+```{r code_chunk_7}
+#Insert your code here 
+
+```
+
+```{r code_chunk_8}
+#Insert your code here 
+
+```
+
+```{r code_chunk_9}
+#Insert your code here 
+
+```
+
+```{r code_chunk_10}
+#Insert your code here 
+
+```
+
+```{r code_chunk_11}
+#Insert your code here 
+
+```
+
+```{r code_chunk_12}
+#Insert your code here 
+
+```
+
+```{r code_chunk_13}
+#Insert your code here 
+
+```
+
+```{r code_chunk_14}
+#Insert your code here 
+
+```
+
+```{r code_chunk_15}
+#Insert your code here 
+
+```
+
+```{r code_chunk_16}
+#Insert your code here 
+
+```
+
+```{r code_chunk_17}
+#Insert your code here 
+
+```
+
+```{r code_chunk_18}
+#Insert your code here 
+
+```
+
+```{r code_chunk_19}
+#Insert your code here 
+
+```
+
+```{r code_chunk_20}
+#Insert your code here 
+
+```
+
+```{r code_chunk_21}
+#Insert your code here 
+
+```
+
+```{r code_chunk_22}
+#Insert your code here 
+
+```
+
+```{r code_chunk_23}
+#Insert your code here 
+
+```
+
+```{r code_chunk_24}
+#Insert your code here 
+
+```
+
+
+```{r code_chunk_25}
+#Insert your code here 
+
+```
+
+
+```{r code_chunk_26}
+#Insert your code here 
+
+```
+
+
+```{r code_chunk_27}
+#Insert your code here 
+
+```
+
+
+```{r code_chunk_28}
+#Insert your code here 
+
+```
+
+
+```{r code_chunk_29}
+#Insert your code here 
+
+```
+
+
+```{r code_chunk_30}
+#Insert your code here 
+
+```
+
+
